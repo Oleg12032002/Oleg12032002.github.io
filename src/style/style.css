@@ -1,7 +1,7 @@
 
 body {
     background: top center url(../img/back_2.png) no-repeat #000;
-    background-size: 100%;
+    background-size: 1800px;
     position: relative;
     width: 1800px;
     height: 950px;
@@ -15,7 +15,7 @@ body {
     top: 20%;
     width: 400px;
     height: 400px;
-    background: top center url(../img/box.png) no-repeat #000;
+    background: top center url(../img/box.png) no-repeat;
     background-size: 100%;
     animation: 1.5s ease 0s infinite beat;
 }
