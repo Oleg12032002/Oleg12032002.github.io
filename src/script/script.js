@@ -26,6 +26,8 @@ window.onload = () => {
         // div.setAttribute('class', 'prize')
         // div.innerHTML = mas_prize[getRandomInt(2)]
         document.body.innerHTML = `<div class="prize">${mas_prize[getRandomInt(mas_prize.length-1)]}</div> <div class="ttt">З Хеловіном. Бажаю веселого і захоплюючого життя без страхів, втрат, прикрощів та негараздів. Нехай чорний кіт ніколи не перебігає тобі жодної дороги, нехай кожен день твого життя сплітаються в одну велику і міцну павутину щастя</div>`
+        document.body.innerHTML += 
+            `<div class="bat bat-1" style="bottom: -100px; left:${getRandomInt(1200)+100}px;"></div>`
     })
 
 }
