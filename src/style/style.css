@@ -37,7 +37,7 @@ body {
 .prize {
     position: absolute;
     left: 40%;
-    top: 20%;
+    top: 30%;
     color: white;
     text-align: center;
     word-wrap: break-word;
@@ -110,10 +110,10 @@ body {
     align-self: flex-end;
     animation-duration: 10s;
     animation-iteration-count: infinite;
-    height: 700px;
+    height: 500px;
     margin: 0 auto 0 auto;
     transform-origin: bottom;
-    width: 700px;
+    width: 500px;
     position: absolute;
     top:0px;
     right: 0px;
