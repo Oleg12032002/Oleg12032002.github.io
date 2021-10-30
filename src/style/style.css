@@ -114,6 +114,6 @@ body {
     transform-origin: bottom;
     width: 500px;
     position: absolute;
-    top:20px;
-    right: 10px;
+    top:100px;
+    right: 100px;
 }
