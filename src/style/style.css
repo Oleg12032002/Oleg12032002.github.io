@@ -111,10 +111,9 @@ body {
     animation-duration: 10s;
     animation-iteration-count: infinite;
     height: 500px;
-    margin: 0 auto 0 auto;
     transform-origin: bottom;
     width: 500px;
     position: absolute;
-    top:0px;
-    right: 0px;
+    top:20px;
+    right: 10px;
 }
