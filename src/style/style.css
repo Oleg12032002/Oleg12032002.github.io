@@ -9,10 +9,9 @@ body {
 }
 
 .box {
-    margin: 0 auto;
     position: absolute;
     left: 40%;
-    top: 20%;
+    top: 30%;
     width: 400px;
     height: 400px;
     background: top center url(../img/box.png) no-repeat;
@@ -36,8 +35,8 @@ body {
 
 .prize {
     position: absolute;
-    left: 40%;
-    top: 30%;
+    left: 35%;
+    top: 25%;
     color: white;
     text-align: center;
     word-wrap: break-word;
@@ -104,6 +103,7 @@ body {
 }
 
 
+
 .bat {
     background: top center url(../img/Group.png) no-repeat;
     background-size: 100%;
@@ -111,6 +111,7 @@ body {
     animation-duration: 10s;
     animation-iteration-count: infinite;
     height: 500px;
+    margin: 0 auto 0 auto;
     transform-origin: bottom;
     width: 500px;
     position: absolute;
